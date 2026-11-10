@@ -1,3 +1,3 @@
 # AI-DLC
 
-This repository contains the AI-DLC project.
+This repository contains the AI-DLC project!
